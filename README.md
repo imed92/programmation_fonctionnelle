@@ -5,7 +5,6 @@
 - Comprendre les principes fondamentaux de la programmation fonctionnelle
 - Découvrir l’immutabilité, les fonctions pures et l’évaluation paresseuse
 - Apprendre à utiliser les fonctions d’ordre supérieur
-- Explorer des bibliothèques comme **Ramda** et **Lodash-fp** pour écrire du code fonctionnel en JavaScript
 
 ---
 
@@ -280,7 +279,6 @@ const a = 3 + 4; // ici, le calcul est fait immédiatement
 
 ➡️ Pas paresseux. Le calcul est exécuté tout de suite.
 
-# Programmation Fonctionnelle en JavaScript
 ---
 
 ### 🔸 Exemple avec **fonction paresseuse**
